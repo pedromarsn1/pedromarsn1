@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedromarsn1 and i'm statrring from zero this crazy journey.
 - 👀 I’m interested in learning how to code in diferent ways.
-- 🌱 I’m currently learning html and css.
+- 🌱 I’m currently learning html,css and javascript.
 - 💞️ I’m looking to collaborate on cool bigginers projects.
 - 📫 How to reach me: pedromarcos804@hotmail.com
 
