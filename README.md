@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedromarsn1 and i'm statrring from zero this crazy journey.
 - 👀 I’m interested in learning how to code in diferent ways.
-- 🌱 I’m currently learning java and agular for APi's development.
+- 🌱 I’m currently learning java and angular for APi's development.
 - 💞️ I’m looking to collaborate on cool bigginers projects.
 - 📫 How to reach me: pedromarcos804@hotmail.com
 
