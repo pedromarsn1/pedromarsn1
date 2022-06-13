@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pedromarsn1 and i'm statrring from zero this crazy journey.
-- 👀 I’m interested in learning how to code in diferent ways.
-- 🌱 I’m currently learning java and angular for APi's development.
-- 💞️ I’m looking to collaborate on cool bigginers projects.
+- 👋 Hi, I’m @pedromarsn1 and i'm statrring this crazy journey as a developer.
+- 👀 I’m interested in learning more each day to make codes with most high quality.
+- 🌱 I’m currently learning java, angular and react for Web development.
+- 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me: pedromarcos804@hotmail.com
 
 <!---
